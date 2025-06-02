@@ -1,0 +1,1 @@
+Base dev environment for single cell data analysis projects on the cloud (AWS and GCP)
