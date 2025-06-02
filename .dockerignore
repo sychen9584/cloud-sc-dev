@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+*.h5ad
+*.bam
+*.fastq
+*.ipynb_checkpoints
+.git/
+data/
+logs/

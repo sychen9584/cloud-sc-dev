@@ -10,5 +10,4 @@ dependencies = [
     "polars>=1.30.0",
     "scanpy>=1.11.2",
     "scikit-learn>=1.6.1",
-    "torch>=2.7.0",
 ]
